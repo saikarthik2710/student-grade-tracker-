@@ -1,2 +1,2 @@
-# student-grade-tracker-
-A Java-based application to record, calculate, and manage student grades efficiently. This project allows users to input marks, calculate averages, assign grades, and display performance summaries in a structured format.
+# Student_Grade_Tracker
+A Student Grade Tracker in Java allows teachers to input and analyze student grades. It calculates average, highest, and lowest scores, and generates transcripts. The program uses object-oriented principles, with classes for students, courses, and grades, ensuring efficient data management and user-friendly interaction.
